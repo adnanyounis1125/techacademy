@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Thal University Bhakkar">
+<path d="M10 58V30C10 16 20 6 32 6s22 10 22 24v28Z" fill="#0f4a35" stroke="#c8a24a" stroke-width="3"/>
+<path d="M20 58V32c0-8 5-14 12-14s12 6 12 14v26" fill="none" stroke="#c8a24a" stroke-width="2"/>
+<path d="M32 22l2.4 5.6 6 .5-4.6 4 1.4 5.9-5.2-3.2-5.2 3.2 1.4-5.9-4.6-4 6-.5Z" fill="#c8a24a"/>
+<path d="M6 58h52" stroke="#c8a24a" stroke-width="3" stroke-linecap="round"/></svg>

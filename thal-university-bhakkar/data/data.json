@@ -1,0 +1,2812 @@
+{
+  "university": {
+    "name": "Thal University Bhakkar",
+    "shortName": "TUB",
+    "tagline": "Knowledge for the heart of the Thal.",
+    "established": 2018,
+    "address": "Thal University Bhakkar, Bhakkar, Punjab, Pakistan",
+    "phone": "+92 453 000000",
+    "email": "info@thaluniversity.edu.pk",
+    "admissionsEmail": "admissions@thaluniversity.edu.pk",
+    "hours": "Monday to Friday, 8:30 am to 4:00 pm",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "instagram": "https://www.instagram.com/",
+      "youtube": "https://www.youtube.com/"
+    },
+    "stats": {
+      "students": 6200,
+      "faculty": 240,
+      "departments": 15,
+      "programs": 34
+    }
+  },
+  "about": {
+    "history": [
+      "Thal University Bhakkar was founded to bring higher education to the people of the Thal region, so that students from Bhakkar, Layyah, Mianwali and nearby towns no longer have to leave home to earn a degree.",
+      "It began with a handful of departments and has grown to fifteen, with new labs, a central library and hostels for both men and women. Many of our students are the first in their family to attend university.",
+      "Today the university works with local schools, farmers, businesses and government offices, and its graduates teach, farm, build software and practise law across South Punjab."
+    ],
+    "vision": "To be the leading university of South Punjab, known for honest teaching, useful research and graduates who serve their communities.",
+    "mission": "To offer affordable, good quality education; to carry out research that helps the Thal region; and to build character, discipline and respect for others in every student.",
+    "vc": {
+      "name": "Prof. Dr. Muhammad Aslam Khan",
+      "title": "Vice Chancellor",
+      "message": [
+        "Welcome to Thal University Bhakkar. A university is only as good as the questions it teaches its students to ask, and we want every student here to learn to ask them carefully and answer them honestly.",
+        "Our teachers are available, our labs are open, and our doors are open too. I encourage you to use every facility we have and to take part in societies, sports and community work alongside your studies.",
+        "We are proud of this region and its people. Come and help us build something that lasts."
+      ]
+    },
+    "facilities": [
+      {
+        "name": "Central Library",
+        "icon": "book-open",
+        "img": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=70",
+        "desc": "Over 48,000 books, journals and daily newspapers, with quiet reading halls and a discussion room."
+      },
+      {
+        "name": "Laboratories",
+        "icon": "flask",
+        "img": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=900&q=70",
+        "desc": "Computer, physics, chemistry, agriculture and language labs, each supervised by a lab instructor."
+      },
+      {
+        "name": "Hostels",
+        "icon": "bed",
+        "img": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=900&q=70",
+        "desc": "Separate hostels for male and female students with a mess, study room and 24-hour warden."
+      },
+      {
+        "name": "Cafeteria",
+        "icon": "utensils",
+        "img": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=70",
+        "desc": "Affordable meals and tea at a clean, shaded cafeteria with separate family seating."
+      },
+      {
+        "name": "Sports Ground",
+        "icon": "trophy",
+        "img": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=900&q=70",
+        "desc": "Cricket and football grounds, volleyball and badminton courts and an indoor games hall."
+      },
+      {
+        "name": "Mosque",
+        "icon": "landmark",
+        "img": "https://images.unsplash.com/photo-1585036156171-384164a8c675?auto=format&fit=crop&w=900&q=70",
+        "desc": "A central mosque for daily prayers and Friday congregation, with a separate prayer room for women."
+      },
+      {
+        "name": "Medical Center",
+        "icon": "heart-pulse",
+        "img": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=70",
+        "desc": "A resident doctor and nurse during university hours, first aid and an ambulance on call."
+      }
+    ]
+  },
+  "departments": [
+    {
+      "slug": "computer-science",
+      "name": "Computer Science",
+      "icon": "cpu",
+      "short": "The Department of Computer Science builds strong foundations in programming, algorithms and mathematics.",
+      "overview": "The Department of Computer Science builds strong foundations in programming, algorithms and mathematics. Final-year projects are supervised by faculty and presented to a panel of local industry guests.",
+      "programs": [
+        {
+          "name": "BS Computer Science",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MS Computer Science",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Muhammad Tariq Mehmood",
+      "faculty": [
+        {
+          "name": "Dr. Muhammad Tariq Mehmood",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Computer Science",
+          "subjects": [
+            "Design and Analysis of Algorithms",
+            "Artificial Intelligence",
+            "Research Methodology"
+          ]
+        },
+        {
+          "name": "Dr. Saima Kausar",
+          "designation": "Associate Professor",
+          "qualification": "PhD Computer Science",
+          "subjects": [
+            "Database Systems",
+            "Data Mining",
+            "Big Data Analytics"
+          ]
+        },
+        {
+          "name": "Mr. Hafiz Ahmad Raza",
+          "designation": "Assistant Professor",
+          "qualification": "MS Computer Science",
+          "subjects": [
+            "Programming Fundamentals",
+            "Object Oriented Programming",
+            "Data Structures"
+          ]
+        },
+        {
+          "name": "Ms. Rabia Nawaz",
+          "designation": "Lecturer",
+          "qualification": "MS Computer Science",
+          "subjects": [
+            "Operating Systems",
+            "Computer Networks",
+            "Information Security"
+          ]
+        },
+        {
+          "name": "Mr. Zeeshan Haider",
+          "designation": "Lecturer",
+          "qualification": "MPhil Computer Science",
+          "subjects": [
+            "Web Technologies",
+            "Computer Organization",
+            "Discrete Structures"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 38000,
+          "total": 53000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 38000,
+          "total": 41000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 40000,
+          "total": 43000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 40000,
+          "total": 43000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 42000,
+          "total": 45000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 42000,
+          "total": 45000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 43500,
+          "total": 46500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 43500,
+          "total": 46500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "AI and the Future of Work in South Punjab",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Thal Computing Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Web Development Bootcamp",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Inter-Department Coding Contest",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Lab",
+          "title": "Programming and Networks Labs",
+          "description": "Departmental facility open for practice during university hours."
+        },
+        {
+          "type": "Field trip",
+          "title": "Visit to a Software Technology Park, Lahore",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "software-engineering",
+      "name": "Software Engineering",
+      "icon": "code",
+      "short": "The Department of Software Engineering trains students to plan, build, test and maintain large software systems.",
+      "overview": "The Department of Software Engineering trains students to plan, build, test and maintain large software systems. Courses follow real project cycles, with team projects from the second year onward.",
+      "programs": [
+        {
+          "name": "BS Software Engineering",
+          "duration": "4 years, 8 semesters"
+        }
+      ],
+      "head": "Dr. Muhammad Aamir Shahzad",
+      "faculty": [
+        {
+          "name": "Dr. Muhammad Aamir Shahzad",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Software Engineering",
+          "subjects": [
+            "Software Requirements Engineering",
+            "Software Quality Assurance",
+            "Research Methodology"
+          ]
+        },
+        {
+          "name": "Ms. Hina Aslam",
+          "designation": "Assistant Professor",
+          "qualification": "MS Software Engineering",
+          "subjects": [
+            "Software Design and Architecture",
+            "Software Project Management"
+          ]
+        },
+        {
+          "name": "Mr. Usman Ghani",
+          "designation": "Lecturer",
+          "qualification": "MS Software Engineering",
+          "subjects": [
+            "Mobile Application Development",
+            "Human Computer Interaction"
+          ]
+        },
+        {
+          "name": "Mr. Bilal Ahmad Khan",
+          "designation": "Lecturer",
+          "qualification": "MS Computer Science",
+          "subjects": [
+            "Web Engineering",
+            "Object Oriented Analysis and Design"
+          ]
+        },
+        {
+          "name": "Ms. Mehwish Iqbal",
+          "designation": "Lecturer",
+          "qualification": "MPhil Software Engineering",
+          "subjects": [
+            "Software Testing",
+            "Formal Methods",
+            "Programming Fundamentals"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 38000,
+          "total": 53000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 38000,
+          "total": 41000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 40000,
+          "total": 43000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 40000,
+          "total": 43000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 42000,
+          "total": 45000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 42000,
+          "total": 45000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 43500,
+          "total": 46500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 43500,
+          "total": 46500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Agile Teams in Pakistani Software Houses",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Software Engineering Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Git and Team Collaboration Workshop",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "App-a-thon",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Lab",
+          "title": "Software Development Lab",
+          "description": "Departmental facility open for practice during university hours."
+        }
+      ]
+    },
+    {
+      "slug": "information-technology",
+      "name": "Information Technology",
+      "icon": "network",
+      "short": "The Department of Information Technology focuses on networks, databases, cloud services and the practical side of running IT in organisations.",
+      "overview": "The Department of Information Technology focuses on networks, databases, cloud services and the practical side of running IT in organisations. Students spend a large part of every semester in labs.",
+      "programs": [
+        {
+          "name": "BS Information Technology",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "ADP Information Technology",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Abdul Rehman Niazi",
+      "faculty": [
+        {
+          "name": "Dr. Abdul Rehman Niazi",
+          "designation": "Associate Professor and Chairperson",
+          "qualification": "PhD Information Technology",
+          "subjects": [
+            "Cloud Computing",
+            "Network Security",
+            "IT Project Management"
+          ]
+        },
+        {
+          "name": "Mr. Fahad Mehmood",
+          "designation": "Assistant Professor",
+          "qualification": "MS Information Technology",
+          "subjects": [
+            "Network Administration",
+            "Data Communication"
+          ]
+        },
+        {
+          "name": "Ms. Sidra Batool",
+          "designation": "Lecturer",
+          "qualification": "MS Information Systems",
+          "subjects": [
+            "Database Administration",
+            "Systems Analysis and Design"
+          ]
+        },
+        {
+          "name": "Mr. Kamran Abbas",
+          "designation": "Lecturer",
+          "qualification": "MS Computer Science",
+          "subjects": [
+            "Web Design and Development",
+            "Cyber Security Fundamentals"
+          ]
+        },
+        {
+          "name": "Ms. Ayesha Siddiqa",
+          "designation": "Lecturer",
+          "qualification": "MPhil Information Technology",
+          "subjects": [
+            "Digital Marketing",
+            "Introduction to ICT",
+            "E-Commerce"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 36000,
+          "total": 51000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 36000,
+          "total": 39000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 38000,
+          "total": 41000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 38000,
+          "total": 41000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 39500,
+          "total": 42500
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 39500,
+          "total": 42500
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 41500,
+          "total": 44500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 41500,
+          "total": 44500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Cyber Safety for Students",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "IT Club",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Network Setup and Troubleshooting",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Poster and Project Exhibition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Lab",
+          "title": "Networking and Cloud Lab",
+          "description": "Departmental facility open for practice during university hours."
+        }
+      ]
+    },
+    {
+      "slug": "business-administration",
+      "name": "Business Administration",
+      "icon": "briefcase",
+      "short": "The Department of Business Administration prepares students for management, marketing and finance roles.",
+      "overview": "The Department of Business Administration prepares students for management, marketing and finance roles. Case studies and local business visits are part of most courses.",
+      "programs": [
+        {
+          "name": "BBA (Hons.)",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MBA",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Shahid Hussain",
+      "faculty": [
+        {
+          "name": "Dr. Shahid Hussain",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Management",
+          "subjects": [
+            "Strategic Management",
+            "Organizational Behavior"
+          ]
+        },
+        {
+          "name": "Ms. Nimra Fatima",
+          "designation": "Assistant Professor",
+          "qualification": "MBA, MPhil Marketing",
+          "subjects": [
+            "Marketing Management",
+            "Consumer Behavior"
+          ]
+        },
+        {
+          "name": "Mr. Adeel Anwar",
+          "designation": "Lecturer",
+          "qualification": "MS Finance",
+          "subjects": [
+            "Financial Management",
+            "Corporate Finance"
+          ]
+        },
+        {
+          "name": "Ms. Kinza Ramzan",
+          "designation": "Lecturer",
+          "qualification": "MBA Human Resource Management",
+          "subjects": [
+            "Human Resource Management",
+            "Business Communication"
+          ]
+        },
+        {
+          "name": "Mr. Rizwan Ullah",
+          "designation": "Lecturer",
+          "qualification": "MBA, LLB",
+          "subjects": [
+            "Entrepreneurship",
+            "Business Law",
+            "Principles of Management"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 34000,
+          "total": 49000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 34000,
+          "total": 37000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 35500,
+          "total": 38500
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 35500,
+          "total": 38500
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 37500,
+          "total": 40500
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 37500,
+          "total": 40500
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 39000,
+          "total": 42000
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 39000,
+          "total": 42000
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Starting a Business in a Small City",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Thal Business Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Business Plan Writing",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Business Idea Pitch Day",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Visit to a Flour Mill and a Cotton Factory",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "commerce",
+      "name": "Commerce",
+      "icon": "calculator",
+      "short": "The Department of Commerce covers accounting, auditing, taxation and banking.",
+      "overview": "The Department of Commerce covers accounting, auditing, taxation and banking. It is a good route for students aiming at professional accounting qualifications.",
+      "programs": [
+        {
+          "name": "BS Commerce",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "M.Com",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Ghulam Mustafa Malik",
+      "faculty": [
+        {
+          "name": "Dr. Ghulam Mustafa Malik",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Commerce",
+          "subjects": [
+            "Advanced Accounting",
+            "Auditing"
+          ]
+        },
+        {
+          "name": "Mr. Tahir Mahmood Awan",
+          "designation": "Assistant Professor",
+          "qualification": "M.Com, MPhil",
+          "subjects": [
+            "Cost Accounting",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Ms. Samina Akhtar",
+          "designation": "Lecturer",
+          "qualification": "MS Commerce",
+          "subjects": [
+            "Business Statistics",
+            "Banking and Finance"
+          ]
+        },
+        {
+          "name": "Mr. Waseem Abbas",
+          "designation": "Lecturer",
+          "qualification": "M.Com",
+          "subjects": [
+            "Principles of Commerce",
+            "Business Mathematics"
+          ]
+        },
+        {
+          "name": "Ms. Uzma Parveen",
+          "designation": "Lecturer",
+          "qualification": "MS Accounting and Finance",
+          "subjects": [
+            "Financial Accounting",
+            "Insurance"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 26000,
+          "total": 41000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 26000,
+          "total": 29000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 28500,
+          "total": 31500
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 28500,
+          "total": 31500
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 30000,
+          "total": 33000
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 30000,
+          "total": 33000
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Path to CA and ACCA for Commerce Graduates",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Commerce and Accounting Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Income Tax Return Filing Workshop",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Accounting Quiz Competition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Visit to a Local Bank Branch",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "icon": "trending-up",
+      "short": "The Department of Economics teaches how markets, governments and households make decisions, with special attention to development issues in rural Pakistan.",
+      "overview": "The Department of Economics teaches how markets, governments and households make decisions, with special attention to development issues in rural Pakistan. Students learn statistical tools for research.",
+      "programs": [
+        {
+          "name": "BS Economics",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MS Economics",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Nazia Parveen",
+      "faculty": [
+        {
+          "name": "Dr. Nazia Parveen",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Economics",
+          "subjects": [
+            "Microeconomics",
+            "Development Economics"
+          ]
+        },
+        {
+          "name": "Mr. Imran Sadiq",
+          "designation": "Assistant Professor",
+          "qualification": "MPhil Economics",
+          "subjects": [
+            "Macroeconomics",
+            "Public Finance"
+          ]
+        },
+        {
+          "name": "Dr. Rashid Mehmood",
+          "designation": "Assistant Professor",
+          "qualification": "PhD Economics",
+          "subjects": [
+            "Econometrics",
+            "Research Methods"
+          ]
+        },
+        {
+          "name": "Ms. Amna Javed",
+          "designation": "Lecturer",
+          "qualification": "MS Economics",
+          "subjects": [
+            "Money and Banking",
+            "International Trade"
+          ]
+        },
+        {
+          "name": "Mr. Noman Ashraf",
+          "designation": "Lecturer",
+          "qualification": "MS Economics",
+          "subjects": [
+            "Agricultural Economics",
+            "Mathematical Economics"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 25000,
+          "total": 40000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 25000,
+          "total": 28000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 26000,
+          "total": 29000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 26000,
+          "total": 29000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 28500,
+          "total": 31500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 28500,
+          "total": 31500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Inflation and the Household Budget",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Economics Forum",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Data Analysis with Statistical Software",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Budget Speech Debate",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Village Survey Visit in Tehsil Bhakkar",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "english",
+      "name": "English",
+      "icon": "languages",
+      "short": "The Department of English offers literature, linguistics and communication skills.",
+      "overview": "The Department of English offers literature, linguistics and communication skills. It also runs the English language support classes open to students from every department.",
+      "programs": [
+        {
+          "name": "BS English (Linguistics and Literature)",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MA English",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Farzana Yasmin",
+      "faculty": [
+        {
+          "name": "Dr. Farzana Yasmin",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD English Literature",
+          "subjects": [
+            "Literary Theory",
+            "Modern Poetry"
+          ]
+        },
+        {
+          "name": "Mr. Khalid Mahmood Chishti",
+          "designation": "Assistant Professor",
+          "qualification": "MPhil English",
+          "subjects": [
+            "Drama",
+            "Classical Poetry"
+          ]
+        },
+        {
+          "name": "Ms. Maryam Zafar",
+          "designation": "Lecturer",
+          "qualification": "MS Linguistics",
+          "subjects": [
+            "Introduction to Linguistics",
+            "Phonetics and Phonology"
+          ]
+        },
+        {
+          "name": "Mr. Salman Farooq",
+          "designation": "Lecturer",
+          "qualification": "MA English, MPhil",
+          "subjects": [
+            "The Novel",
+            "Short Fiction"
+          ]
+        },
+        {
+          "name": "Ms. Iqra Shaheen",
+          "designation": "Lecturer",
+          "qualification": "MS Applied Linguistics",
+          "subjects": [
+            "Academic Writing",
+            "Communication Skills",
+            "Functional English"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 24000,
+          "total": 39000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 24000,
+          "total": 27000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 25000,
+          "total": 28000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 25000,
+          "total": 28000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 26500,
+          "total": 29500
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 26500,
+          "total": 29500
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Writing a Good Research Abstract",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Thal Literary and Debating Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Public Speaking Workshop",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Inter-Department Declamation Contest",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Lab",
+          "title": "Language Learning Lab",
+          "description": "Departmental facility open for practice during university hours."
+        }
+      ]
+    },
+    {
+      "slug": "urdu",
+      "name": "Urdu",
+      "icon": "pen",
+      "short": "The Department of Urdu teaches Urdu poetry, prose, criticism and linguistics.",
+      "overview": "The Department of Urdu teaches Urdu poetry, prose, criticism and linguistics. It organises the university's annual mushaira and book fair stall.",
+      "programs": [
+        {
+          "name": "BS Urdu",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MA Urdu",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Abdul Qadir Tariq",
+      "faculty": [
+        {
+          "name": "Dr. Abdul Qadir Tariq",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Urdu",
+          "subjects": [
+            "Classical Urdu Poetry",
+            "Urdu Criticism"
+          ]
+        },
+        {
+          "name": "Ms. Shazia Kanwal",
+          "designation": "Assistant Professor",
+          "qualification": "MPhil Urdu",
+          "subjects": [
+            "Urdu Fiction",
+            "Urdu Drama"
+          ]
+        },
+        {
+          "name": "Mr. Muhammad Irfan Baloch",
+          "designation": "Lecturer",
+          "qualification": "MA Urdu, MPhil",
+          "subjects": [
+            "Urdu Linguistics",
+            "History of Urdu Literature"
+          ]
+        },
+        {
+          "name": "Mr. Hafiz Naeem Akhtar",
+          "designation": "Lecturer",
+          "qualification": "MA Urdu",
+          "subjects": [
+            "Urdu Journalism",
+            "Urdu Grammar and Composition"
+          ]
+        },
+        {
+          "name": "Ms. Rukhsana Bibi",
+          "designation": "Lecturer",
+          "qualification": "MPhil Urdu",
+          "subjects": [
+            "Modern Urdu Poetry",
+            "Iqbaliyat"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 20000,
+          "total": 35000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 20000,
+          "total": 23000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 21000,
+          "total": 24000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 21000,
+          "total": 24000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 22000,
+          "total": 25000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 22000,
+          "total": 25000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 23000,
+          "total": 26000
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 23000,
+          "total": 26000
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Allama Iqbal and Contemporary Thought",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Bazm-e-Adab",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Urdu Calligraphy and Typing",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Bait Bazi and Mushaira",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Visit to a District Library",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "islamic-studies",
+      "name": "Islamic Studies",
+      "icon": "landmark",
+      "short": "The Department of Islamic Studies teaches the Quran, Hadith, jurisprudence and Islamic history.",
+      "overview": "The Department of Islamic Studies teaches the Quran, Hadith, jurisprudence and Islamic history. Courses also cover Islamic banking and comparative religion.",
+      "programs": [
+        {
+          "name": "BS Islamic Studies",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MA Islamic Studies",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Hafiz Muhammad Idrees",
+      "faculty": [
+        {
+          "name": "Dr. Hafiz Muhammad Idrees",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Islamic Studies",
+          "subjects": [
+            "Tafseer",
+            "Usool al-Fiqh"
+          ]
+        },
+        {
+          "name": "Mr. Hafiz Sajid Mehmood",
+          "designation": "Assistant Professor",
+          "qualification": "MPhil Islamic Studies",
+          "subjects": [
+            "Hadith and its Sciences",
+            "Seerah of the Prophet"
+          ]
+        },
+        {
+          "name": "Dr. Naeem-ul-Hassan",
+          "designation": "Assistant Professor",
+          "qualification": "PhD Islamic Studies",
+          "subjects": [
+            "Islamic Banking and Finance",
+            "Islamic Law of Contracts"
+          ]
+        },
+        {
+          "name": "Ms. Humaira Tahir",
+          "designation": "Lecturer",
+          "qualification": "MS Islamic Studies",
+          "subjects": [
+            "Comparative Religion",
+            "Women in Islam"
+          ]
+        },
+        {
+          "name": "Mr. Qari Abdul Basit",
+          "designation": "Lecturer",
+          "qualification": "MA Islamic Studies, Shahadat-ul-Aalmiyyah",
+          "subjects": [
+            "Tajweed and Recitation",
+            "Arabic Language"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 18000,
+          "total": 33000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 18000,
+          "total": 21000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 19000,
+          "total": 22000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 19000,
+          "total": 22000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 20000,
+          "total": 23000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 20000,
+          "total": 23000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 20500,
+          "total": 23500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 20500,
+          "total": 23500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Ethics and Honesty in Daily Life",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Dars-e-Quran Circle",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Tajweed Practice Workshop",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Hifz-e-Quran and Naat Competition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Visit to a Historic Mosque",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "icon": "sigma",
+      "short": "The Department of Mathematics covers pure and applied mathematics with a strong base in analysis and algebra.",
+      "overview": "The Department of Mathematics covers pure and applied mathematics with a strong base in analysis and algebra. Graduates move into teaching, data work and further research.",
+      "programs": [
+        {
+          "name": "BS Mathematics",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MSc Mathematics",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Muhammad Asif Javed",
+      "faculty": [
+        {
+          "name": "Dr. Muhammad Asif Javed",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Mathematics",
+          "subjects": [
+            "Real Analysis",
+            "Functional Analysis"
+          ]
+        },
+        {
+          "name": "Dr. Saira Bano",
+          "designation": "Associate Professor",
+          "qualification": "PhD Mathematics",
+          "subjects": [
+            "Linear Algebra",
+            "Abstract Algebra"
+          ]
+        },
+        {
+          "name": "Mr. Hamid Raza",
+          "designation": "Assistant Professor",
+          "qualification": "MPhil Mathematics",
+          "subjects": [
+            "Differential Equations",
+            "Calculus"
+          ]
+        },
+        {
+          "name": "Ms. Tahira Nasreen",
+          "designation": "Lecturer",
+          "qualification": "MS Mathematics",
+          "subjects": [
+            "Numerical Analysis",
+            "Complex Analysis"
+          ]
+        },
+        {
+          "name": "Mr. Shoaib Akhtar",
+          "designation": "Lecturer",
+          "qualification": "MSc Mathematics",
+          "subjects": [
+            "Probability and Statistics",
+            "Mathematical Methods"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 22000,
+          "total": 37000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 22000,
+          "total": 25000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 23000,
+          "total": 26000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 23000,
+          "total": 26000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 24000,
+          "total": 27000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 24000,
+          "total": 27000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 25500,
+          "total": 28500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 25500,
+          "total": 28500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Mathematics Behind Encryption",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Mathematics Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "LaTeX for Reports and Theses",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Mathematical Olympiad",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Lab",
+          "title": "Computational Mathematics Lab",
+          "description": "Departmental facility open for practice during university hours."
+        }
+      ]
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "icon": "atom",
+      "short": "The Department of Physics offers theory courses together with well-equipped practical labs.",
+      "overview": "The Department of Physics offers theory courses together with well-equipped practical labs. Students work in mechanics, electronics, optics and modern physics labs every semester.",
+      "programs": [
+        {
+          "name": "BS Physics",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MSc Physics",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Shahzad Ali Bhatti",
+      "faculty": [
+        {
+          "name": "Dr. Shahzad Ali Bhatti",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Physics",
+          "subjects": [
+            "Quantum Mechanics",
+            "Solid State Physics"
+          ]
+        },
+        {
+          "name": "Dr. Nadia Rauf",
+          "designation": "Assistant Professor",
+          "qualification": "PhD Physics",
+          "subjects": [
+            "Electromagnetic Theory",
+            "Optics"
+          ]
+        },
+        {
+          "name": "Mr. Aqeel Ahmad",
+          "designation": "Lecturer",
+          "qualification": "MPhil Physics",
+          "subjects": [
+            "Classical Mechanics",
+            "Thermodynamics"
+          ]
+        },
+        {
+          "name": "Ms. Fozia Anwar",
+          "designation": "Lecturer",
+          "qualification": "MS Physics",
+          "subjects": [
+            "Electronics",
+            "Atomic and Molecular Physics"
+          ]
+        },
+        {
+          "name": "Mr. Mubashir Hussain",
+          "designation": "Lecturer",
+          "qualification": "MSc Physics",
+          "subjects": [
+            "Mathematical Methods of Physics",
+            "Physics Laboratory"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 24000,
+          "total": 39000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 24000,
+          "total": 27000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 25000,
+          "total": 28000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 25000,
+          "total": 28000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 26500,
+          "total": 29500
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 26500,
+          "total": 29500
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Solar Energy for Rural Pakistan",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Physics Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Basic Electronics Soldering Workshop",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Science Model Exhibition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Lab",
+          "title": "Electronics and Optics Labs",
+          "description": "Departmental facility open for practice during university hours."
+        }
+      ]
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "icon": "flask",
+      "short": "The Department of Chemistry teaches organic, inorganic, physical and analytical chemistry with regular lab work.",
+      "overview": "The Department of Chemistry teaches organic, inorganic, physical and analytical chemistry with regular lab work. Students learn safe laboratory practice from the first semester.",
+      "programs": [
+        {
+          "name": "BS Chemistry",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MSc Chemistry",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Rubina Kausar",
+      "faculty": [
+        {
+          "name": "Dr. Rubina Kausar",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Organic Chemistry",
+          "subjects": [
+            "Organic Chemistry",
+            "Spectroscopy"
+          ]
+        },
+        {
+          "name": "Dr. Muhammad Waqas Iqbal",
+          "designation": "Assistant Professor",
+          "qualification": "PhD Inorganic Chemistry",
+          "subjects": [
+            "Inorganic Chemistry",
+            "Coordination Chemistry"
+          ]
+        },
+        {
+          "name": "Ms. Sana Gul",
+          "designation": "Lecturer",
+          "qualification": "MPhil Physical Chemistry",
+          "subjects": [
+            "Physical Chemistry",
+            "Electrochemistry"
+          ]
+        },
+        {
+          "name": "Mr. Adnan Shabbir",
+          "designation": "Lecturer",
+          "qualification": "MS Analytical Chemistry",
+          "subjects": [
+            "Analytical Chemistry",
+            "Instrumental Analysis"
+          ]
+        },
+        {
+          "name": "Ms. Bushra Tariq",
+          "designation": "Lecturer",
+          "qualification": "MS Biochemistry",
+          "subjects": [
+            "Biochemistry",
+            "Environmental Chemistry"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 25000,
+          "total": 40000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 25000,
+          "total": 28000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 26000,
+          "total": 29000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 26000,
+          "total": 29000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 27500,
+          "total": 30500
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 28500,
+          "total": 31500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 28500,
+          "total": 31500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Water Quality in the Thal Region",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Chemistry Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Laboratory Safety Training",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Chemistry Quiz and Model Competition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Lab",
+          "title": "Organic, Inorganic and Instrument Labs",
+          "description": "Departmental facility open for practice during university hours."
+        }
+      ]
+    },
+    {
+      "slug": "education",
+      "name": "Education",
+      "icon": "graduation-cap",
+      "short": "The Department of Education prepares future teachers and school leaders.",
+      "overview": "The Department of Education prepares future teachers and school leaders. Students complete supervised teaching practice in partner schools around Bhakkar.",
+      "programs": [
+        {
+          "name": "BS Education",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "M.Ed",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Shaista Parveen",
+      "faculty": [
+        {
+          "name": "Dr. Shaista Parveen",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Education",
+          "subjects": [
+            "Educational Leadership",
+            "Curriculum Development"
+          ]
+        },
+        {
+          "name": "Mr. Ghulam Abbas Khan",
+          "designation": "Assistant Professor",
+          "qualification": "MPhil Education",
+          "subjects": [
+            "Educational Psychology",
+            "Educational Assessment"
+          ]
+        },
+        {
+          "name": "Ms. Farhat Naz",
+          "designation": "Lecturer",
+          "qualification": "M.Ed, MS Education",
+          "subjects": [
+            "Teaching Methodology",
+            "Classroom Management"
+          ]
+        },
+        {
+          "name": "Mr. Tariq Javed",
+          "designation": "Lecturer",
+          "qualification": "MS Education",
+          "subjects": [
+            "Inclusive Education",
+            "Educational Technology"
+          ]
+        },
+        {
+          "name": "Ms. Nasreen Akhtar",
+          "designation": "Lecturer",
+          "qualification": "MPhil Education",
+          "subjects": [
+            "Foundations of Education",
+            "Teaching Practice"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 22000,
+          "total": 37000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 22000,
+          "total": 25000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 23000,
+          "total": 26000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 23000,
+          "total": 26000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 24000,
+          "total": 27000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 24000,
+          "total": 27000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 25500,
+          "total": 28500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 25500,
+          "total": 28500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Teaching Reading in Early Grades",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Future Educators Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Lesson Planning Workshop",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Teaching Aids Exhibition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Observation Visits to Partner Schools",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "law",
+      "name": "Law",
+      "icon": "scale",
+      "short": "The Department of Law teaches constitutional, criminal, civil and family law with an emphasis on legal writing and court practice.",
+      "overview": "The Department of Law teaches constitutional, criminal, civil and family law with an emphasis on legal writing and court practice. Moot courts are held every semester.",
+      "programs": [
+        {
+          "name": "LLB (Hons.)",
+          "duration": "5 years"
+        },
+        {
+          "name": "LLM",
+          "duration": "1.5 years"
+        }
+      ],
+      "head": "Dr. Sheikh Abdul Majeed",
+      "faculty": [
+        {
+          "name": "Dr. Sheikh Abdul Majeed",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Law, LLM",
+          "subjects": [
+            "Constitutional Law of Pakistan",
+            "Jurisprudence"
+          ]
+        },
+        {
+          "name": "Mr. Mian Asad Mehmood",
+          "designation": "Assistant Professor",
+          "qualification": "LLM",
+          "subjects": [
+            "Law of Contract",
+            "Law of Evidence"
+          ]
+        },
+        {
+          "name": "Ms. Saadia Naeem",
+          "designation": "Lecturer",
+          "qualification": "LLM",
+          "subjects": [
+            "Criminal Law",
+            "Family Law (Muslim)"
+          ]
+        },
+        {
+          "name": "Mr. Hassan Raza Gondal",
+          "designation": "Lecturer",
+          "qualification": "LLB, LLM",
+          "subjects": [
+            "Property Law",
+            "Civil Procedure"
+          ]
+        },
+        {
+          "name": "Ms. Areeba Khalid",
+          "designation": "Lecturer",
+          "qualification": "LLM",
+          "subjects": [
+            "Legal Writing and Research",
+            "Legal Methods"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 42000,
+          "total": 57000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 42000,
+          "total": 45000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 44000,
+          "total": 47000
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 44000,
+          "total": 47000
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 46000,
+          "total": 49000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 46000,
+          "total": 49000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 48500,
+          "total": 51500
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 48500,
+          "total": 51500
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Rights of Tenants and Landowners",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Thal Law Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Legal Drafting Workshop",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Moot Court Competition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Visit to District Courts, Bhakkar",
+          "description": "Supervised visit arranged by the department during the semester."
+        }
+      ]
+    },
+    {
+      "slug": "agriculture",
+      "name": "Agriculture",
+      "icon": "wheat",
+      "short": "The Department of Agriculture teaches crop production, soil science and water management for dryland farming.",
+      "overview": "The Department of Agriculture teaches crop production, soil science and water management for dryland farming. The Thal region's sandy soils and gram, wheat and groundnut crops shape much of the coursework.",
+      "programs": [
+        {
+          "name": "BS Agriculture (Hons.)",
+          "duration": "4 years, 8 semesters"
+        },
+        {
+          "name": "MSc (Hons.) Agronomy",
+          "duration": "2 years, 4 semesters"
+        }
+      ],
+      "head": "Dr. Muhammad Akram Chaudhry",
+      "faculty": [
+        {
+          "name": "Dr. Muhammad Akram Chaudhry",
+          "designation": "Professor and Chairperson",
+          "qualification": "PhD Agronomy",
+          "subjects": [
+            "Crop Production",
+            "Dryland Farming"
+          ]
+        },
+        {
+          "name": "Dr. Zubair Ahmad",
+          "designation": "Associate Professor",
+          "qualification": "PhD Soil Science",
+          "subjects": [
+            "Soil Science",
+            "Soil Fertility"
+          ]
+        },
+        {
+          "name": "Ms. Rida Fatima",
+          "designation": "Assistant Professor",
+          "qualification": "MSc (Hons.) Plant Pathology",
+          "subjects": [
+            "Plant Pathology",
+            "Plant Protection"
+          ]
+        },
+        {
+          "name": "Mr. Naveed Iqbal",
+          "designation": "Lecturer",
+          "qualification": "MSc (Hons.) Entomology",
+          "subjects": [
+            "Entomology",
+            "Integrated Pest Management"
+          ]
+        },
+        {
+          "name": "Mr. Rana Sajjad",
+          "designation": "Lecturer",
+          "qualification": "MSc (Hons.) Horticulture",
+          "subjects": [
+            "Horticulture",
+            "Irrigation and Water Management",
+            "Farm Machinery"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "semester": 1,
+          "admission": 15000,
+          "tuition": 32000,
+          "total": 47000
+        },
+        {
+          "semester": 2,
+          "admission": 3000,
+          "tuition": 32000,
+          "total": 35000
+        },
+        {
+          "semester": 3,
+          "admission": 3000,
+          "tuition": 33500,
+          "total": 36500
+        },
+        {
+          "semester": 4,
+          "admission": 3000,
+          "tuition": 33500,
+          "total": 36500
+        },
+        {
+          "semester": 5,
+          "admission": 3000,
+          "tuition": 35000,
+          "total": 38000
+        },
+        {
+          "semester": 6,
+          "admission": 3000,
+          "tuition": 35000,
+          "total": 38000
+        },
+        {
+          "semester": 7,
+          "admission": 3000,
+          "tuition": 37000,
+          "total": 40000
+        },
+        {
+          "semester": 8,
+          "admission": 3000,
+          "tuition": 37000,
+          "total": 40000
+        }
+      ],
+      "activities": [
+        {
+          "type": "Seminar",
+          "title": "Gram and Groundnut Production in Thal",
+          "description": "Guest speakers and faculty talks open to all students of the university."
+        },
+        {
+          "type": "Society",
+          "title": "Agriculture Society",
+          "description": "Student-run society with elected office bearers and a faculty advisor."
+        },
+        {
+          "type": "Workshop",
+          "title": "Drip Irrigation Demonstration",
+          "description": "Hands-on session held once or twice a semester; seats are limited."
+        },
+        {
+          "type": "Competition",
+          "title": "Crop and Seed Exhibition",
+          "description": "Inter-department event with certificates for winners and participants."
+        },
+        {
+          "type": "Field trip",
+          "title": "Visit to a Research Farm",
+          "description": "Supervised visit arranged by the department during the semester."
+        },
+        {
+          "type": "Lab",
+          "title": "Soil, Plant and Seed Labs",
+          "description": "Departmental facility open for practice during university hours."
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-10-14",
+      "title": "Spring 2027 admissions open on 1 November",
+      "excerpt": "Applications for all BS, MS and MBA programs will be accepted online and at the admissions office until 15 December."
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Department of Agriculture opens new soil testing lab",
+      "excerpt": "Farmers from nearby villages can now bring soil samples for testing on the first Saturday of every month."
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Merit scholarships announced for 120 students",
+      "excerpt": "Students with the highest results in last semester will receive tuition waivers from this semester."
+    },
+    {
+      "date": "2026-09-24",
+      "title": "University cricket team wins inter-university trophy",
+      "excerpt": "The team beat three universities to take the South Punjab title in a final played at our ground."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-11-05",
+      "title": "Career Fair 2026",
+      "place": "Main Auditorium",
+      "desc": "Employers from Bhakkar, Multan and Lahore meet final-year students."
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Inter-Department Sports Week",
+      "place": "Sports Ground",
+      "desc": "Cricket, football, volleyball, badminton and athletics."
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Mushaira and Book Fair",
+      "place": "Library Lawn",
+      "desc": "An evening of Urdu poetry with a book stall by local publishers."
+    },
+    {
+      "date": "2026-12-10",
+      "title": "Science and Technology Exhibition",
+      "place": "Science Block",
+      "desc": "Student projects from Physics, Chemistry, CS and Agriculture."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Hira Batool",
+      "program": "BS Computer Science, Class of 2025",
+      "quote": "I travelled from Layyah by university van every day. My teachers stayed after class to help with my final project, and now I work as a junior developer."
+    },
+    {
+      "name": "Muhammad Awais",
+      "program": "BS Agriculture, Class of 2024",
+      "quote": "The field visits taught me more than any textbook. I now help my family's farm use drip irrigation and have doubled our groundnut yield."
+    },
+    {
+      "name": "Sana Ullah",
+      "program": "BBA, Class of 2025",
+      "quote": "The business plan competition gave me the confidence to start my own small shop in Bhakkar. The scholarship made my degree possible."
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "Merit Scholarship",
+      "eligibility": "Top 3 positions in each department each semester",
+      "benefit": "50% tuition waiver for the next semester"
+    },
+    {
+      "name": "Need-Based Aid",
+      "eligibility": "Family income below the university threshold, 2.5 CGPA or above",
+      "benefit": "25% to 75% tuition waiver on application"
+    },
+    {
+      "name": "Hafiz-e-Quran Scholarship",
+      "eligibility": "Certified Hafiz-e-Quran admitted to any program",
+      "benefit": "50% tuition waiver for the full degree"
+    },
+    {
+      "name": "Sports Scholarship",
+      "eligibility": "Province or national level players with certificates",
+      "benefit": "25% to 50% tuition waiver while representing the university"
+    },
+    {
+      "name": "Orphan and Special Student Support",
+      "eligibility": "Orphan students and students with disabilities",
+      "benefit": "Up to 100% tuition waiver after verification"
+    },
+    {
+      "name": "Government Programs",
+      "eligibility": "As per HEC and Punjab Government eligibility rules",
+      "benefit": "Support from Need-Based Scholarship programs; apply through the scholarship office"
+    }
+  ],
+  "installments": [
+    "Semester fee may be paid in two equal installments.",
+    "The first installment is due at the time of admission or re-registration; the second within 45 days of the start of classes.",
+    "A late fee of Rs 500 per week applies after the due date, up to a maximum of Rs 3,000.",
+    "Students with an unpaid second installment cannot receive their datesheet or admit card.",
+    "Installment requests must be submitted to the Finance Office before the first due date."
+  ],
+  "feeNote": "Fees shown for Semesters 1 to 8. Fees for later semesters of five-year programs are announced by the Finance Office. Fees may change; the notified fee on the challan is final.",
+  "transport": {
+    "routes": [
+      {
+        "id": "bhakkar-city",
+        "name": "Bhakkar City",
+        "distanceKm": 8,
+        "pickups": [
+          {
+            "name": "Faisal Chowk",
+            "time": "7:15 am"
+          },
+          {
+            "name": "Jhang Road Stop",
+            "time": "7:25 am"
+          },
+          {
+            "name": "Bhakkar Bus Stand",
+            "time": "7:35 am"
+          },
+          {
+            "name": "Railway Road Stop",
+            "time": "7:45 am"
+          }
+        ],
+        "returnTimes": [
+          "1:30 pm",
+          "4:00 pm"
+        ],
+        "monthly": 2500
+      },
+      {
+        "id": "darya-khan",
+        "name": "Darya Khan",
+        "distanceKm": 35,
+        "pickups": [
+          {
+            "name": "Darya Khan Bazar",
+            "time": "6:30 am"
+          },
+          {
+            "name": "Darya Khan Railway Station",
+            "time": "6:40 am"
+          },
+          {
+            "name": "Kahawar Stop",
+            "time": "6:55 am"
+          }
+        ],
+        "returnTimes": [
+          "1:30 pm",
+          "4:00 pm"
+        ],
+        "monthly": 4500
+      },
+      {
+        "id": "mankera",
+        "name": "Mankera",
+        "distanceKm": 30,
+        "pickups": [
+          {
+            "name": "Mankera Main Chowk",
+            "time": "6:40 am"
+          },
+          {
+            "name": "Mankera Bus Stand",
+            "time": "6:50 am"
+          },
+          {
+            "name": "Rakh Stop",
+            "time": "7:05 am"
+          }
+        ],
+        "returnTimes": [
+          "1:30 pm",
+          "4:00 pm"
+        ],
+        "monthly": 4200
+      },
+      {
+        "id": "layyah",
+        "name": "Layyah",
+        "distanceKm": 55,
+        "pickups": [
+          {
+            "name": "Layyah Chowk Azam",
+            "time": "6:00 am"
+          },
+          {
+            "name": "Layyah Bus Stand",
+            "time": "6:10 am"
+          },
+          {
+            "name": "Karor Road Stop",
+            "time": "6:25 am"
+          }
+        ],
+        "returnTimes": [
+          "4:00 pm"
+        ],
+        "monthly": 6000
+      },
+      {
+        "id": "kallur-kot",
+        "name": "Kallur Kot",
+        "distanceKm": 60,
+        "pickups": [
+          {
+            "name": "Kallur Kot Bazar",
+            "time": "6:00 am"
+          },
+          {
+            "name": "Kallur Kot Bus Stand",
+            "time": "6:10 am"
+          },
+          {
+            "name": "Chowk Rehmat Stop",
+            "time": "6:30 am"
+          }
+        ],
+        "returnTimes": [
+          "4:00 pm"
+        ],
+        "monthly": 6500
+      },
+      {
+        "id": "dullewala",
+        "name": "Dullewala",
+        "distanceKm": 45,
+        "pickups": [
+          {
+            "name": "Dullewala Main Stop",
+            "time": "6:20 am"
+          },
+          {
+            "name": "Dullewala Bus Stand",
+            "time": "6:30 am"
+          },
+          {
+            "name": "Chowk Sarwar Shaheed",
+            "time": "6:45 am"
+          }
+        ],
+        "returnTimes": [
+          "1:30 pm",
+          "4:00 pm"
+        ],
+        "monthly": 5200
+      }
+    ],
+    "semesterMonths": 5,
+    "semesterDiscountPercent": 5,
+    "dueDay": 10,
+    "bank": {
+      "bank": "Habib Bank Limited (HBL)",
+      "branch": "Bhakkar Main Branch",
+      "accountTitle": "Thal University Bhakkar - Transport Account",
+      "accountNo": "0000-0000000000-00",
+      "iban": "PK00 HABB 0000 0000 0000 0000"
+    },
+    "notes": [
+      "Vans run Monday to Friday on university working days only.",
+      "Students must carry the university card; it is checked at boarding.",
+      "Pay the challan at any branch of the named bank before the due date and submit the student copy to the Transport Office.",
+      "A late payment fine of Rs 200 applies after the due date."
+    ]
+  },
+  "admissions": {
+    "eligibility": [
+      {
+        "level": "BS / BBA / BS Agriculture",
+        "text": "Intermediate (FA, FSc, ICS, I.Com or equivalent) with at least 45% marks. Subject requirements vary by department."
+      },
+      {
+        "level": "LLB (Hons.)",
+        "text": "Intermediate with at least 50% marks and a passing mark in the university law aptitude test."
+      },
+      {
+        "level": "ADP",
+        "text": "Intermediate with at least 40% marks."
+      },
+      {
+        "level": "MA / MSc / M.Com / M.Ed / MBA",
+        "text": "16 years of education (BA/BSc or 4-year BS) with at least 2.0 CGPA or 45% marks."
+      },
+      {
+        "level": "MS / LLM",
+        "text": "16 years of education with at least 2.5 CGPA or 50% marks, plus an interview."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Create your application",
+        "text": "Fill the online admission form or collect it from the admissions office."
+      },
+      {
+        "title": "Upload documents and pay the processing fee",
+        "text": "Attach scanned documents and deposit Rs 1,500 at the named bank."
+      },
+      {
+        "title": "Sit the entry test",
+        "text": "Test centres are held at the university; roll number slips are sent by email and SMS."
+      },
+      {
+        "title": "Check the merit list",
+        "text": "Merit lists are displayed on the notice board and the website."
+      },
+      {
+        "title": "Pay the fee and confirm your seat",
+        "text": "Deposit the first semester fee by the due date to keep your seat."
+      },
+      {
+        "title": "Attend orientation",
+        "text": "Meet your department, collect your university card and get your timetable."
+      }
+    ],
+    "documents": [
+      "Matric and Intermediate certificates and result cards (attested copies)",
+      "Bachelor degree and transcript (for MA, MSc, MS and MBA)",
+      "CNIC or B-Form copy of the student and father or guardian",
+      "Four recent passport-size photographs with a blue background",
+      "Domicile certificate",
+      "Character certificate from the last institution",
+      "Migration certificate (for students from other boards or universities)",
+      "Certificates for sports, Hafiz-e-Quran or other scholarship claims (if applicable)"
+    ],
+    "dates": [
+      {
+        "event": "Applications open",
+        "date": "1 November 2026"
+      },
+      {
+        "event": "Last date to apply",
+        "date": "15 December 2026"
+      },
+      {
+        "event": "Entry test",
+        "date": "27 December 2026"
+      },
+      {
+        "event": "First merit list",
+        "date": "5 January 2027"
+      },
+      {
+        "event": "Last date to pay first semester fee",
+        "date": "12 January 2027"
+      },
+      {
+        "event": "Orientation",
+        "date": "27 January 2027"
+      },
+      {
+        "event": "Classes begin",
+        "date": "1 February 2027"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can I apply to more than one department?",
+        "a": "Yes. You can select up to three departments in order of preference on one form."
+      },
+      {
+        "q": "Is there a quota for students from Bhakkar district?",
+        "a": "Seats are reserved for local students as per the notified university policy. The exact number is published with every admission advertisement."
+      },
+      {
+        "q": "Is the entry test compulsory?",
+        "a": "For BS, BBA, LLB and Agriculture programs, yes. ADP and master's programs are admitted on merit and, where required, an interview."
+      },
+      {
+        "q": "Can I get a hostel seat along with my admission?",
+        "a": "Hostel seats are limited and are given after admission on a first-come basis, with priority to students living more than 40 km from the campus."
+      },
+      {
+        "q": "How do I apply for a scholarship?",
+        "a": "Collect the scholarship form from the Student Affairs Office after admission and submit it with the required documents in the first month."
+      },
+      {
+        "q": "What if I miss the fee deadline?",
+        "a": "Your seat may go to the next candidate on the merit list. You may request a one-time extension from the Registrar's Office with a valid reason."
+      }
+    ]
+  },
+  "info": {
+    "hostel": {
+      "intro": "Both hostels are inside the university boundary and are managed by wardens appointed by the university.",
+      "items": [
+        "Boys Hostel: 220 beds in two- and three-bed rooms",
+        "Girls Hostel: 140 beds in two- and three-bed rooms, with female warden and security",
+        "Mess with weekly menu approved by the hostel committee",
+        "Wi-Fi in common rooms and study halls",
+        "Laundry area, hot water and generator backup",
+        "Entry and exit time monitored; visitors allowed in the visitor room only"
+      ],
+      "fees": [
+        {
+          "label": "Room charges",
+          "value": "Rs 9,000 per month"
+        },
+        {
+          "label": "Mess charges (average)",
+          "value": "Rs 7,500 per month"
+        },
+        {
+          "label": "Security deposit (refundable)",
+          "value": "Rs 10,000 one-time"
+        }
+      ]
+    },
+    "library": {
+      "intro": "The Central Library is open to all enrolled students and faculty.",
+      "items": [
+        "Over 48,000 books and bound journals",
+        "Access to the HEC National Digital Library from library computers",
+        "Separate reading halls for men and women",
+        "Photocopying and printing counter",
+        "Past papers section for every department",
+        "Up to 3 books may be borrowed for 14 days"
+      ],
+      "hours": "Monday to Saturday, 8:00 am to 8:00 pm"
+    },
+    "societies": [
+      {
+        "name": "Thal Literary and Debating Society",
+        "desc": "Debates, declamation and writing contests."
+      },
+      {
+        "name": "Thal Computing Society",
+        "desc": "Coding contests, workshops and hackathons."
+      },
+      {
+        "name": "Thal Business Society",
+        "desc": "Business ideas, speaker sessions and a student bazaar."
+      },
+      {
+        "name": "Bazm-e-Adab",
+        "desc": "Urdu poetry, mushaira and literary evenings."
+      },
+      {
+        "name": "Agriculture Society",
+        "desc": "Farm visits, crop shows and rural outreach."
+      },
+      {
+        "name": "Blood Donors Society",
+        "desc": "Blood donation camps in partnership with the district hospital."
+      },
+      {
+        "name": "Social Welfare Society",
+        "desc": "Flood relief, tree plantation and winter clothing drives."
+      },
+      {
+        "name": "Dars-e-Quran Circle",
+        "desc": "Weekly Quran study and recitation."
+      }
+    ],
+    "sports": {
+      "intro": "The Directorate of Sports organises inter-department and inter-university competitions throughout the year.",
+      "items": [
+        "Cricket",
+        "Football",
+        "Volleyball",
+        "Badminton",
+        "Table tennis",
+        "Athletics",
+        "Kabaddi",
+        "Women's indoor games"
+      ],
+      "facilities": "Two grounds, two volleyball courts, badminton hall and a gym open from 3 pm to 7 pm."
+    },
+    "exams": {
+      "intro": "Each semester has one mid-term and one final exam. The datesheet is displayed on the notice board and the website at least 15 days before the exams.",
+      "rules": [
+        "Minimum 75% attendance is required to sit the final exam.",
+        "Students must bring their university card and admit card.",
+        "Mobile phones and smart watches are not allowed in the exam hall.",
+        "Results are announced within four weeks of the last paper.",
+        "Rechecking applications are accepted within seven days of the result."
+      ],
+      "datesheet": [
+        {
+          "term": "Spring 2027 Mid-Term Exams",
+          "dates": "22 March to 27 March 2027",
+          "note": "Datesheet released on 5 March 2027"
+        },
+        {
+          "term": "Spring 2027 Final Exams",
+          "dates": "7 June to 22 June 2027",
+          "note": "Datesheet released on 20 May 2027"
+        },
+        {
+          "term": "Fall 2026 Final Exams",
+          "dates": "7 December to 22 December 2026",
+          "note": "Datesheet released on 20 November 2026"
+        }
+      ]
+    },
+    "calendar": [
+      {
+        "date": "7 Dec - 22 Dec 2026",
+        "event": "Fall 2026 final exams"
+      },
+      {
+        "date": "25 Dec 2026",
+        "event": "Quaid-e-Azam Day (holiday)"
+      },
+      {
+        "date": "1 Feb 2027",
+        "event": "Spring 2027 classes begin"
+      },
+      {
+        "date": "5 Feb 2027",
+        "event": "Kashmir Solidarity Day (holiday)"
+      },
+      {
+        "date": "22 Mar - 27 Mar 2027",
+        "event": "Mid-term exams"
+      },
+      {
+        "date": "23 Mar 2027",
+        "event": "Pakistan Day (holiday)"
+      },
+      {
+        "date": "1 May 2027",
+        "event": "Labour Day (holiday)"
+      },
+      {
+        "date": "7 Jun - 22 Jun 2027",
+        "event": "Final exams"
+      },
+      {
+        "date": "10 Jul 2027",
+        "event": "Spring 2027 results announced"
+      }
+    ],
+    "rules": [
+      "Students must carry the university card on campus at all times.",
+      "Attendance of at least 75% is required in every course.",
+      "Ragging, harassment and discrimination of any kind lead to disciplinary action.",
+      "Smoking, drugs and weapons are strictly prohibited on campus.",
+      "Students must follow the dress code: modest, clean and appropriate for an educational setting.",
+      "Political activity and unauthorised gatherings are not permitted inside the university.",
+      "Damage to university property will be charged to the student.",
+      "Complaints may be made to the Student Affairs Office or the Discipline Committee."
+    ],
+    "downloads": [
+      {
+        "title": "Admission Form",
+        "desc": "For all BS, MS and MBA programs",
+        "file": "admission-form.pdf"
+      },
+      {
+        "title": "Scholarship Application",
+        "desc": "Merit, need-based and special categories",
+        "file": "scholarship-form.pdf"
+      },
+      {
+        "title": "Hostel Application",
+        "desc": "Boys and girls hostel",
+        "file": "hostel-form.pdf"
+      },
+      {
+        "title": "Transport Request Form",
+        "desc": "Van route registration",
+        "file": "transport-form.pdf"
+      },
+      {
+        "title": "Fee Installment Request",
+        "desc": "For semester fee installments",
+        "file": "installment-form.pdf"
+      }
+    ]
+  }
+}
